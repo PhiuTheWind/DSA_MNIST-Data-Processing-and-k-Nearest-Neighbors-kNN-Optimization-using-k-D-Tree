@@ -1,6 +1,7 @@
 # DSA_MNIST-Data-Processing-and-k-Nearest-Neighbors-kNN-Optimization-using-k-D-Tree
 
 **Introduction:**
+
 This project is an assignment for the Data Structures and Algorithms course at Ho Chi Minh University of Technology. The goal is to optimize the k-Nearest Neighbors (kNN) algorithm using the k-D Tree data structure to improve processing speed, especially on high-dimensional data, such as MNIST.
 
 
@@ -16,6 +17,7 @@ k-Nearest Neighbors (kNN):
 + This assignment requires implementing kNN with a k-D Tree to optimize search time.
 
 **Requirements:** Here are they
+
 Class kDTree
 + Implements the k-D Tree data structure, with operations such as insertion, deletion, and nearest-neighbor search.
 + Contains methods to build a balanced k-D Tree from a list of points.
@@ -28,6 +30,7 @@ Dataset Class
 + The class has methods to load data from CSV, print dataset samples, and split data for training and testing.
 
 **Instruction:**
+
 Để biên dịch và chạy chương trình, trước tiên bạn cần cài đặt môi trường có sẵn trình biên dịch C++ (cụ thể là g++ với chuẩn C++11). Sau khi đã chuẩn bị môi trường, bạn có thể biên dịch chương trình bằng cách sử dụng lệnh sau trong terminal:
 bash
 g++ -o main main.cpp kNN.cpp -I . -std=c++11
