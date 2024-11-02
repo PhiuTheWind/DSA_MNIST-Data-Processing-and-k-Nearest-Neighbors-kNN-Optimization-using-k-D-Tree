@@ -4,7 +4,7 @@
 This project is an assignment for the Data Structures and Algorithms course at Ho Chi Minh University of Technology. The goal is to optimize the k-Nearest Neighbors (kNN) algorithm using the k-D Tree data structure to improve processing speed, especially on high-dimensional data, such as MNIST.
 
 
-**Project Overview:**Here are they
+**Project Overview:** Here are they
 
 k-D Tree:
 + A k-D Tree is an extension of a binary search tree designed for multidimensional data.
