@@ -31,10 +31,10 @@ Dataset Class
 
 **Instruction:**
 
-Để biên dịch và chạy chương trình, trước tiên bạn cần cài đặt môi trường có sẵn trình biên dịch C++ (cụ thể là g++ với chuẩn C++11). Sau khi đã chuẩn bị môi trường, bạn có thể biên dịch chương trình bằng cách sử dụng lệnh sau trong terminal:
+To compile and run the program, you first need to set up an environment with a C++ compiler installed (specifically g++ with C++11 standard). After preparing the environment, you can compile the program by using the following command in the terminal:
 bash
 g++ -o main main.cpp kNN.cpp -I . -std=c++11
 
-Lệnh này sẽ tạo ra một file thực thi có tên là main. Sau khi biên dịch thành công, bạn có thể chạy chương trình bằng cách gõ lệnh:
+This command will create an executable file named main. After successfully compiling, you can run the program by typing the command:
 bash
 ./main
