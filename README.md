@@ -15,7 +15,7 @@ k-Nearest Neighbors (kNN):
 + kNN is a simple classification algorithm that assigns labels based on the k closest points in a dataset.
 + This assignment requires implementing kNN with a k-D Tree to optimize search time.
 
-**Requirements:**
+**Requirements:** Here are they
 Class kDTree
 + Implements the k-D Tree data structure, with operations such as insertion, deletion, and nearest-neighbor search.
 + Contains methods to build a balanced k-D Tree from a list of points.
